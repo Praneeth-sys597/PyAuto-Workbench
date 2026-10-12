@@ -1,0 +1,6 @@
+{
+  "name": "PyAuto - Python Task Automation Workbench",
+  "description": "Interactive Python script automation workbench for repetitive tasks: file moving with os/shutil, email regex extraction, and web title scraping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
